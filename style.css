@@ -1,0 +1,48 @@
+body {
+    background:
+        #372838;
+}
+
+.header {
+    color: yellow;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    color: tomato;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+    color: yellow;
+    font-family: 'Poppins', sans-serif;
+}
+.diary {
+    color: yellow;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+h3 {
+    color: yellow;
+    font-family: 'Poppins', sans-serif;
+}
+
+}
+footer {
+    
+    color: yellow;
+    text-align: center;
+    background: black;
+}
+.weeks {
+    display: grid;
+    grid-template-columns: 33,3% 33,3% 33,3%;
+}
+.text {
+    list-style-type: none;
+    color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    grid-template-columns: 33,3% 33,3% 33,3%;
+}
